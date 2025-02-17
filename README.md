@@ -20,7 +20,7 @@
 -->
 
 <p align="center">
-  <h3 align="left">📂 Check out my portfolio: To be Updated</h3>
+  <h3 align="left">📂 Check out my portfolio: <a href="https://johnlorena-portfolio.vercel.app/">Website </a></h3>
   <h3 align="left">📧 Reach me: <a href="https://www.linkedin.com/in/johnlorena/">LinkedIn </a></h3>
   <h3 align="left">📧 Contact me: <a href="mailto:johnlorena360@gmail.com">johnlorena360@gmail.com </h3>
   </br>
