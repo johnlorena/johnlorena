@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**johnlorena/johnlorena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm John Lorena
 
-Here are some ideas to get you started:
+## 💻 Software Engineer | Flutter | DART 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Passionate about building scalable and high-performance web & mobile applications.
+- 🔹 Experienced in TypeScript, HTML, PHP, Python, CSS, MySQL, Flutter, Firebase.
+- 🔹 Advocate of SOLID principles, clean architecture, and maintainable code
+- 🔹 Currently exploring Framer Motion for smooth UI animations
+
+
+### 📂 Check out my portfolio: To be Updated
+### 📧 Reach me: [LinkedIn](https://www.linkedin.com/in/johnlorena/)
+### 📧 Email me: johnlorena360@gmail.com
+
