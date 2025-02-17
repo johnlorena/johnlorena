@@ -12,9 +12,18 @@
 - 🔹 Currently exploring Framer Motion for smooth UI animations
 </br>
 
+<!--
+## Certificates
+- [CS50x: Introduction to Computer Science](certificate/CS50x.pdf) [(Verified version)](certificate/verified_CS50x.pdf)
+- [CS50W: Web Programming with Python and JavaScript](certificate/CS50W.pdf) [(Verified version)](certificate/verified_CS50W.pdf)
+</br>
+-->
+
 <p align="center">
   <h3 align="left">📂 Check out my portfolio: To be Updated</h3>
   <h3 align="left">📧 Reach me: <a href="https://www.linkedin.com/in/johnlorena/">LinkedIn </a></h3>
   <h3 align="left">📧 Contact me: <a href="mailto:johnlorena360@gmail.com">johnlorena360@gmail.com </h3>
   </br>
 </p>
+
+
